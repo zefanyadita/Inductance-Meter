@@ -28,11 +28,9 @@
   
 ### The Project Schematic
 ![My Image](3.png)
-![My Image](13.jpeg)
 
 ## The Architecture Design
 ![My Image](6.jpeg)
-![My Image](14.jpeg)
 
 ### The Sasis Design
 ![My Image](5.png)
@@ -41,21 +39,17 @@
 After the Inductor Meter Design is complete, calibration is carried out on the frequency of the test inductor that will be used. In this case, the test inductors used are 3.3 mH, 1 mH, 0.22 mH, 0.047 mH, and 0.01 mH inductors. The frequency was searched for each test inductor by repeating 10 times. The following is the frequency retrieval data for each inductor:
 ![My Image](7.jpeg)
 
-![My Image](8.jpeg)
-
-![My Image](9.jpeg)
+![My Image](8.jpeg) ![My Image](9.jpeg)
 
 ## The Test
 After the equation model was entered into the program code, data was collected with 10 repetitions for each test inductor. The following is the data obtained:
 ![My Image](10.jpeg)
 
 ## The Demo Result
-![My Image](12.jpeg)
-
-![My Image](11.jpeg)
+![My Image](12.jpeg) ![My Image](11.jpeg)
 
 ## The Prototype
-![My Image](15.jpeg)
+![My Image](15.jpeg) ![My Image](13.jpeg) ![My Image](14.jpeg)
 
 ## The Conclusion:
 An inductor meter is a tool used to measure or test the inductance value of an inductor. In this case, our designed inductor meter succeeded in measuring the test inductor in the range of 200 mH-2H and successfully displayed the value of the inductance which was read via the blynk application. The test results show that the highest error percentage value is for the 3.3mH test inductor at 8.987% and the smallest error percentage value is for the 0.22mH test inductor at 0.08%. However, several improvements are still needed regarding the error produced by the meter inductor.
