@@ -13,7 +13,7 @@
 
 - We can get the L value from the F frequency value we just measured and we also and the capacitor value. to get the value of L, we use this equation:
 
-![My Image](22.png)
+ ![My Image](22.png)
 
 - The comparator converts the sine wave to a square wave with a 50% duty cycle. This measured value can  be doubled to determine the period, and the reciprocal of the period is the frequency. Since the circuit is in resonance, this frequency is the resonant frequency.
   
@@ -28,12 +28,10 @@
   
 ### The Project Schematic
 ![My Image](3.png)
-
 ![My Image](13.jpeg)
 
 ## The Architecture Design
 ![My Image](6.jpeg)
-
 ![My Image](14.jpeg)
 
 ### The Sasis Design
