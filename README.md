@@ -29,7 +29,7 @@
 ### The Project Schematic
 ![My Image](3.png)
 
-## The Architecture Design
+## The Hardware Design
 ![My Image](6.jpeg)
 
 ### The Sasis Design
