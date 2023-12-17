@@ -29,7 +29,7 @@
 ### The Project Schematic
 ![My Image](3.png)
 
-![My Image](13.png)
+![My Image](13.jpeg)
 
 ## The Architecture Design
 ![My Image](6.jpeg)
